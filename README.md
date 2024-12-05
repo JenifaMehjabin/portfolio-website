@@ -16,8 +16,6 @@ This is my personal portfolio website, showcasing my skills, projects, and exper
 - **HTML**: For structuring the content of the website.
 - **CSS**: For styling and enhancing the design.
 
-## **Live Demo**
-You can view the live version of this website [here](#) (Replace `#` with the GitHub Pages link after deployment).
 
 ## **How to Use**
 1. Clone the repository:
